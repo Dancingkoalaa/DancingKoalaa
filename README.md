@@ -10,7 +10,7 @@
 
 <h3 align="center">Contact with me via:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com//tim-wetzels/">LinkedIn</a> | <a href="mailto:twetzels@tzunder.nl">E-mail</a>
+  <a href="https://www.linkedin.com/in/tim-wetzels-4595a5152/">LinkedIn</a> | <a href="mailto:twetzels@tzunder.nl">E-mail</a>
 </p>
 <!--
 **Dancingkoalaa/DancingKoalaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
